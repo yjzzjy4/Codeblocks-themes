@@ -20,5 +20,5 @@ Just use the **atom-only/default.conf** or **sublime-only/default.conf** to repl
 - 新增atom主题配色
 # 如何安装?
 使用**default.conf**文件替换你的**default.conf**配置文件即可.在做出改动之前请务必备份.
-# 如果懒得折腾其他设置?
+# 懒得折腾其他设置?
 直接使用**atom-only/default.conf**或**sublime-only/default.conf**替换你的**default.conf**文件即可.

@@ -5,13 +5,13 @@ It contains all of the [official codeblocks's color-themes](http://wiki.codebloc
 - Modified sublime theme
 - adding atom theme
 # How to install it?
-Just replace your default.conf with the file. Be sure to back up before you do anything.
+Just replace your **default.conf** with the file. Be sure to back up before you do anything.
 
 # Codeblocks-themes
 个人修改的Code::blocks主题, 仅添加主题,未改变配置.
 # 里面有什么?
 包含所有[codeblock官方主题](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes),并作出以下改动,如:
 - 修改sublime主题配色
-- 新增主题配色:atom
+- 新增atom主题配色
 # 如何安装?
-使用文件替换你的default.conf配置文件即可.在做出改动之前请务必备份.
+使用文件替换你的**default.conf**配置文件即可.在做出改动之前请务必备份.

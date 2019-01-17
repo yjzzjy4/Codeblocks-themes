@@ -1,5 +1,6 @@
 # Codeblocks-themes
 Personal modified Code::blocks themes, not changing the default configuration, only added some themes.
+<font color = red>Only tested in Ubuntu 18.04!</font>
 # What's in it?
 It contains all of the [official codeblocks's color-themes](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes), with something slightly different.For instance:
 - Modified sublime theme
@@ -8,9 +9,10 @@ It contains all of the [official codeblocks's color-themes](http://wiki.codebloc
 Just replace your **default.conf** with the file. Be sure to back up before you do anything.
 # Don't wanna bother to set other settings?
 Just use the **atom-only/default.conf** or **sublime-only/default.conf** to replace your **default.conf** file.
-
+---
 # Codeblocks-themes
 个人修改的Code::blocks主题, 仅添加主题,未改变配置.
+<font color = red>仅在Ubuntu 18.04下测试!</font>
 # 里面有什么?
 包含所有[codeblock官方主题](http://wiki.codeblocks.org/index.php?title=Syntax_highlighting_custom_colour_themes),并作出以下改动,如:
 - 修改sublime主题配色

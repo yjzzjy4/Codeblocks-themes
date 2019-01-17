@@ -6,6 +6,8 @@ It contains all of the [official codeblocks's color-themes](http://wiki.codebloc
 - adding atom theme
 # How to install it?
 Just replace your **default.conf** with the file. Be sure to back up before you do anything.
+# Don't wanna bother to set other settings?
+Just use the **atom-only/default.conf** or **sublime-only/default.conf** to replace your **default.conf** file.
 
 # Codeblocks-themes
 个人修改的Code::blocks主题, 仅添加主题,未改变配置.
@@ -15,3 +17,5 @@ Just replace your **default.conf** with the file. Be sure to back up before you 
 - 新增atom主题配色
 # 如何安装?
 使用文件替换你的**default.conf**配置文件即可.在做出改动之前请务必备份.
+# 如果懒得折腾其他设置
+直接使用**atom-only/default.conf**或**sublime-only/default.conf**替换你的**default.conf**文件即可.

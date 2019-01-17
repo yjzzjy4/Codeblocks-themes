@@ -9,6 +9,7 @@ It contains all of the [official codeblocks's color-themes](http://wiki.codebloc
 Just replace your **default.conf** with the file. Be sure to back up before you do anything.
 # Don't wanna bother to set other settings?
 Just use the **atom-only/default.conf** or **sublime-only/default.conf** to replace your **default.conf** file.
+
 ---
 # Codeblocks-themes
 个人修改的Code::blocks主题, 仅添加主题,未改变配置.
